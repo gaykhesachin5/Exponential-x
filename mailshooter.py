@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import csv
 
-sender_email = "gaykhesachin5@gmail.com"
-password = "Sachin@5268"
+sender_email = "username@gmail.com"
+password = "userpassword"
 
 # Create the plain-text and HTML version of your message
 text = """
